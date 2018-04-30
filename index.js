@@ -19,5 +19,6 @@ function deepestChild() {
 
 //Test 4 --
 function increaseRankBy(n) {
+  let list = document.getElementById("")
   
 }
