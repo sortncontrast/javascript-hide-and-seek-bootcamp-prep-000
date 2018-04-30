@@ -16,3 +16,8 @@ function deepestChild() {
     deepest = store[i].querySelector("div");
   }return deepest;
 }
+
+//Test 4 --
+function increaseRankBy(n) {
+  
+}
